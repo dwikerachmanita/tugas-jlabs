@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3065" started-at="2022-02-22T15:19:49Z" finished-at="2022-02-22T15:19:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3065" started-at="2022-02-22T15:19:49Z" finished-at="2022-02-22T15:19:52Z">
+      <class name="qaautomation.january2022.KolakTest">
+        <test-method status="PASS" signature="register()[pri:0, instance:qaautomation.january2022.KolakTest@60856961]" name="register" duration-ms="2979" started-at="2022-02-22T15:19:49Z" finished-at="2022-02-22T15:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- qaautomation.january2022.KolakTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
