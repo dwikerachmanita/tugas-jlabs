@@ -19,3 +19,4 @@ Membuat api test menggunakan faker untuk populasi data secara acak dan otomatis 
 Inisialisasi git, dan menggabungkan tugas ke dalam satu repository
 
 ## tugas7
+Melakukan tes menggunakan Jmeter dan membuat report hasil Jmeter
