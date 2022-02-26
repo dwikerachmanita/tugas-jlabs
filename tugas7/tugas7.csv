@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1645898172950,3247,Login,200,OK,Thread Group 1-1,text,true,,580,293,1,1,https://kolakproject.herokuapp.com/login,3242,0,2588
+1645898176259,298,KolakUp,200,OK,Thread Group 1-1,text,true,,339,525,1,1,https://kolakproject.herokuapp.com/me/kolak/up,298,0,0
